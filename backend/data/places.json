@@ -1,0 +1,122 @@
+[
+  {
+    "id": "p1",
+    "title": "Alpine Traverse Munich to Venice",
+    "image": {
+      "src": "alpine.jpg",
+      "alt": "Alpine Traverse Munich to Venice."
+    },
+    "lat": 31.7158,
+    "lon": 35.9393 
+  },
+  {
+    "id": "p2",
+    "title": "Dolomites Alta Via 1",
+    "image": {
+      "src": "dolomites.jpg",
+      "alt": "Dolomites Alta Via 1."
+    },
+    "lat": 25.0,
+    "lon": 0.0
+  },
+  {
+    "id": "p3",
+    "title": "Tour du Mont Blanc",
+    "image": {
+      "src": "mont-blanc.jpg",
+      "alt": "Tour du Mont Blanc."
+    },
+    "lat": 27.9881,
+    "lon": 86.925
+  },
+  {
+    "id": "p4",
+    "title": "Bohusleden",
+    "image": {
+      "src": "bohusleden.jpg",
+      "alt": "Bohusleden."
+    },
+    "lat": 18.2208,
+    "lon": -66.5901
+  },
+  {
+    "id": "p5",
+    "title": "Kungsleden",
+    "image": {
+      "src": "kungsleden.jpg",
+      "alt": "Kungsleden."
+    },
+    "lat": 37.9715,
+    "lon": 23.7257
+  },
+  {
+    "id": "p6",
+    "title": "Pembrokeshire Coast Path",
+    "image": {
+      "src": "pembrokeshire.jpg",
+      "alt": "Pembrokeshire Coast Path."
+    },
+    "lat": -3.4653,
+    "lon": -62.2159
+  },
+  {
+    "id": "p7",
+    "title": "Te Araroa Trail",
+    "image": {
+      "src": "te-araroa.jpg",
+      "alt": "Te Araroa Trail."
+    },
+    "lat": 64.9631,
+    "lon": -19.0208
+  },
+  {
+    "id": "p8",
+    "title": "Annapurna Circuit",
+    "image": {
+      "src": "annapurna",
+      "alt": "Annapurna Circuit."
+    },
+    "lat": 34.9949,
+    "lon": 135.785
+  },
+  {
+    "id": "p9",
+    "title": "Snowman Trek",
+    "image": {
+      "src": "snowman.jpg",
+      "alt": "Snowman Trek."
+    },
+    "lat": -18.2871,
+    "lon": 147.6992
+  },
+  {
+    "id": "p10",
+    "title": "Pacific Crest Trail",
+    "image": {
+      "src": "pacific.jpg",
+      "alt": "Pacific Crest Trail."
+    },
+    "lat": 48.8566,
+    "lon": 2.3522
+  },
+  {
+    "id": "p11",
+    "title": "Appalachian Trail",
+    "image": {
+      "src": "appalachian.jpg",
+      "alt": "Appalachian Trail."
+    },
+    "lat": 36.1069,
+    "lon": -112.1129
+  },
+  {
+    "id": "p12",
+    "title": "Huella Andina Trail",
+    "image": {
+      "src": "huella.jpg",
+      "alt": "Huella Andina Trail."
+    },
+    "lat": 45.4408,
+    "lon": 12.3155
+  }
+]

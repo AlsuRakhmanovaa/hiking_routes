@@ -1,5 +1,4 @@
 export default function Header() {
-
     return (
         <header>
             <h1>Hiking routes around the world!</h1>
